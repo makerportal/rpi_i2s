@@ -1,7 +1,10 @@
 # I<sup>2</sup>S Microphone Recording on Raspberry Pi with Python
 Python codes that read, save, and analyze audio input from I<sup>2</sup>S MEMS microphones on a Raspberry Pi
 
-## Wiring
+## Mono Wiring 
+![Mono I2S INMP441 Wiring](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5fb82519c776377ef22d2462/1605904753804/i2s_rpi_INMP441.png?format=750w)
+
+## Stereo Wiring
 ![Stereo I2S INMP441 Wiring](https://static1.squarespace.com/static/59b037304c0dbfb092fbe894/t/5fb8281d1e0ac17c5996ac51/1605904761696/i2s_rpi_INMP441_stereo.png?format=750w)
 
 ## Mono Output
