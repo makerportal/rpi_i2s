@@ -9,4 +9,4 @@ These codes are the backbone of the satellite analyses
 
 *Example Output*:
 
-![NLCD Map in NYC](./image_repository/NLCD_w_city_boundary_nyc.png)
+![I2S Mono Test](./image_repo/I2S_time_series_fft_plot.png)
