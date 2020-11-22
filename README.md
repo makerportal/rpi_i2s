@@ -1,4 +1,4 @@
-# I2S Microphone Recording on Raspberry Pi with Python
+# I<sup>2</sup>S Microphone Recording on Raspberry Pi with Python
 Python codes that read, save, and analyze audio input from I<sup>2</sup>S MEMS microphones on a Raspberry Pi
 
 ## Wiring
