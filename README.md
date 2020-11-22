@@ -9,4 +9,4 @@ These codes are the backbone of the satellite analyses
 
 *Example Output*:
 
-![I2S Mono Test](./image_repo/I2S_time_series_fft_plot.png)
+![I2S Mono Test](./image_repo/I2S_time_series_fft_plot_white.png)
